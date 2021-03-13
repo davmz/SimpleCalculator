@@ -1,5 +1,5 @@
 # Simple Calculator
-A *C# windows application* of a **simple calculator** .exe file to do your taxes :) (that's a joke don't use this to do your taxes unless you want to).
+A *C# windows application* of a **simple calculator** .exe file to do your taxes :) (that's a joke don't use this to do your taxes unless you want to).   
 In the future I will be creating a more sophisticated calculator.\
 So far it can only do addition, subtration, multiplaction and division. 
 

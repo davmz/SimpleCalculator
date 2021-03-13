@@ -1,4 +1,4 @@
-# Simple Calculator
+# Simple Calculator C#
 A *C# windows application* of a **simple calculator** .exe file to do your taxes :)  
 *(that's a joke don't use this to do your taxes unless you want to)*.  
   

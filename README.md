@@ -9,3 +9,5 @@ So far it can only do addition, subtration, multiplaction and division.
 
 ![image](https://user-images.githubusercontent.com/74930417/111020656-2b004f00-838d-11eb-91c8-72f2e3daa892.png)
 
+My next project for an application would be decimal to binary and vise versa.
+
